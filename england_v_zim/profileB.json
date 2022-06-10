@@ -1,0 +1,106 @@
+{
+	"LinearAdditiveUtilitySpace": {
+		"issueUtilities": {
+			"Size of Fund": {
+				"DiscreteValueSetUtilities": {
+					"valueUtilities": {
+						"100 b": 1.0,
+						"50 b": 0.7,
+						"10 b": 0.5,
+						"0": 0.1
+					}
+				}
+			},
+			"Impact on other": {
+				"DiscreteValueSetUtilities": {
+					"valueUtilities": {
+						"No change": 1.0,
+						"Half": 0.625,
+						"Equal": 0.375,
+						"No agreement": 0.125
+					}
+				}
+			},
+			"Zimb Trade Policy": {
+				"DiscreteValueSetUtilities": {
+					"valueUtilities": {
+						"Reduce": 0.1,
+						"Incr": 1.0,
+						"No agreement": 0.5
+					}
+				}
+			},
+			"England Trade Policy": {
+				"DiscreteValueSetUtilities": {
+					"valueUtilities": {
+						"Reduce": 0.05,
+						"Incr": 1.0,
+						"No agreement": 0.45
+					}
+				
+				}
+			},
+			"Forum on health": {
+				"DiscreteValueSetUtilities": {
+					"valueUtilities": {
+						"Creation of fund": 1.0,
+						"commitee to discus creation of fund": 0.9,
+						"comitte to develop agenda": 0.7,
+						"No agreement": 0.1
+					}
+				}
+			}
+		},
+		"issueWeights": {
+			"Size of Fund": 0.2,
+			"Impact on other": 0.2,
+			"Zimb Trade Policy": 0.15, 
+			"England Trade Policy": 0.15,
+			"Forum on health": 0.3
+		},
+		"domain": {
+	"name": "englvzim",
+	"issuesValues": {
+		"Size of Fund": {
+			"values": [
+				"100 b",
+				"50 b",
+				"10 b",
+				"0"
+			]
+		},
+		"Impact on other": {
+			"values": [
+				"No change",
+				"Half",
+				"Equal",
+				"No agreement"
+			]
+		},
+		"Zimb Trade Policy": {
+			"values": [
+				"Reduce",
+				"Incr",
+				"No agreement"
+			]
+		},
+		"England Trade Policy": {
+			"values": [
+				"Reduce",
+				"Incr",
+				"No agreement"
+			]
+		},
+		"Forum on health": {
+			"values": [
+				"Creation of fund",
+				"commitee to discus creation of fund",
+				"comitte to develop agenda",
+				"No agreement"
+			]
+		}
+	}
+},
+		"name": "profileB"
+	}
+}

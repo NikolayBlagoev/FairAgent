@@ -1,0 +1,43 @@
+{
+	"name": "englvzim",
+	"issuesValues": {
+		"Size of Fund": {
+			"values": [
+				"100 b",
+				"50 b",
+				"10 b",
+				"0"
+			]
+		},
+		"Impact on other": {
+			"values": [
+				"No change",
+				"Half",
+				"Equal",
+				"No agreement"
+			]
+		},
+		"Zimb Trade Policy": {
+			"values": [
+				"Reduce",
+				"Incr",
+				"No agreement"
+			]
+		},
+		"England Trade Policy": {
+			"values": [
+				"Reduce",
+				"Incr",
+				"No agreement"
+			]
+		},
+		"Forum on health": {
+			"values": [
+				"Creation of fund",
+				"commitee to discus creation of fund",
+				"comitte to develop agenda",
+				"No agreement"
+			]
+		}
+	}
+}

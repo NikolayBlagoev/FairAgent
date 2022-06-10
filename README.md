@@ -1,2 +1,4 @@
 # FairAgent
-Fair agent for the GeniusWeb platform
+Fair agents for the GeniusWeb platform
+
+### Written for my Bachelor Paper
